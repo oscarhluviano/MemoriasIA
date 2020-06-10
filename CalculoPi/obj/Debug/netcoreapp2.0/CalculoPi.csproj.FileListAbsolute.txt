@@ -1,0 +1,11 @@
+E:\InteligenciaArtificial\CalculoPi\bin\Debug\netcoreapp2.0\CalculoPi.deps.json
+E:\InteligenciaArtificial\CalculoPi\bin\Debug\netcoreapp2.0\CalculoPi.runtimeconfig.json
+E:\InteligenciaArtificial\CalculoPi\bin\Debug\netcoreapp2.0\CalculoPi.runtimeconfig.dev.json
+E:\InteligenciaArtificial\CalculoPi\bin\Debug\netcoreapp2.0\CalculoPi.dll
+E:\InteligenciaArtificial\CalculoPi\bin\Debug\netcoreapp2.0\CalculoPi.pdb
+E:\InteligenciaArtificial\CalculoPi\obj\Debug\netcoreapp2.0\CalculoPi.csprojAssemblyReference.cache
+E:\InteligenciaArtificial\CalculoPi\obj\Debug\netcoreapp2.0\CalculoPi.csproj.CoreCompileInputs.cache
+E:\InteligenciaArtificial\CalculoPi\obj\Debug\netcoreapp2.0\CalculoPi.AssemblyInfoInputs.cache
+E:\InteligenciaArtificial\CalculoPi\obj\Debug\netcoreapp2.0\CalculoPi.AssemblyInfo.cs
+E:\InteligenciaArtificial\CalculoPi\obj\Debug\netcoreapp2.0\CalculoPi.dll
+E:\InteligenciaArtificial\CalculoPi\obj\Debug\netcoreapp2.0\CalculoPi.pdb
